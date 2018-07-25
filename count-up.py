@@ -2,6 +2,8 @@
 
 #usage python count-up.py <blast output from metagenomes>
 
+#!/usr/bin/python 
+
 import sys
 
 d_gene = {}
